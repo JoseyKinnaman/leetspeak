@@ -9,6 +9,10 @@
 This a project for Epicodus, with the main goal being CSS styling techniques.
 
 ## Specs
+* The string remains as is when no leetspeak rules apply
+- Input: "happy"
+- Output: "happy"
+
 * The letter "e" will be replaced with "3"
 - Input: "bed"
 - Output: "b3d"
